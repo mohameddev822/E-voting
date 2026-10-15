@@ -3,7 +3,7 @@ Technologies utilisées :
 - Solidity et Ethereum (HYperledger Besu) pour le smart contract
 - React.js pour le frontend
 - MetaMask pour le wallet
-- 
+
 Objectif du projet :
 
 Conception et développement d'une platforme de voting décentralisée 
